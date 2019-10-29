@@ -10,7 +10,7 @@ O Petflix é um sistema web feito em Laravel e possui os seus vídeos de desenvo
 
 ## Banco de Dados
 
-O sql com o script do banco de dados encontra-se em [database/petflix.sql]
+O sql com o script do banco de dados encontra-se em [database/petflix.sql](https://github.com/rkpontes/petflix_laravel/blob/master/database/petflix.sql).
 
 
 ## Contributing
