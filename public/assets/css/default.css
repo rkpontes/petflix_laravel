@@ -1,0 +1,54 @@
+
+body{
+    background-color: #141414;
+}
+
+nav{
+    background-color: #000; 
+    color: #FFF;
+}
+
+.logo{
+    width: 120px;
+}
+
+.bg-black{
+    background-color: #000;
+}
+
+.profile-image{
+    width: 35px; 
+    height: 35px;
+}
+
+.small-text{
+    color: #424C64;
+}
+
+.video-image{
+    width: 245px; 
+    height: 130px; 
+}
+
+.video-image img{
+    width: 100%;
+    object-fit: cover;
+}
+
+@media (min-width: 576px) {
+    .modal-dialog { max-width: none; }
+}
+
+.modal-dialogFull {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+  
+.modal-contentFull {
+    height: auto;
+    min-height: 100%;
+    max-width: 100%;
+    border-radius: 0;
+}
