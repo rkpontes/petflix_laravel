@@ -7,6 +7,12 @@ O Petflix é um sistema web feito em Laravel e possui os seus vídeos de desenvo
 - [Playlist](https://www.youtube.com/playlist?list=PLjajq2vF-P3LzwBLB1ORUKmNneKG1PBAg).
 - [Instagram do Autor](https://instagram.com/raphaelkennedy).
 
+
+## Banco de Dados
+
+O sql com o script do banco de dados encontra-se em [database/petflix.sql]
+
+
 ## Contributing
 
 Obrigado por considerar contribuir com o Petflix!
